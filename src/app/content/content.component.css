@@ -1,0 +1,19 @@
+.mat-card-title {
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 40px;
+}
+
+.mat-card-content {
+    margin: 0 20%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.result {
+    display: flex;
+}
+
+.canvasjs-chart-credit {
+    display: none;
+}
